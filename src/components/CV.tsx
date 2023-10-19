@@ -111,7 +111,7 @@ const CV = () => {
           </div>
 
           <div className="mb-2">
-            <h2 className="text-xl sm:text-2xl font-semibold">Hobbies</h2>
+            <h2 className="text-2xl font-semibold">Hobbies</h2>
             <p className="sm:text-md p-2">{data.hoobies}</p>
           </div>
         </div>
