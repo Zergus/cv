@@ -2,7 +2,7 @@ const fs = require("fs");
 const path = require("path");
 
 // Define the path to the JSON file
-const jsonFilePath = path.join(__dirname, "../data", "info.json");
+const jsonFilePath = path.join(__dirname, "../src/data", "info.json");
 
 // Read the JSON file
 fs.readFile(jsonFilePath, "utf8", (err, data) => {

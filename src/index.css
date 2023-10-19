@@ -1,6 +1,18 @@
 @import 'tailwindcss/base';
 @import 'tailwindcss/components';
 @import 'tailwindcss/utilities';
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+h2.text-2xl.font-semibold {
+    background: linear-gradient(to right, grey, white);
+    display: inline-block;
+    padding: 0.2em 0.4em;
+    width: 100%;
+}
 
 @media print {
     html {
@@ -8,24 +20,24 @@
     }
 
     body {
-    font-size: 0.8em;
-}
+        font-size: 0.8em;
+    }
 
-h1 {
-    font-size: 1.5em;
-}
+    h1 {
+        font-size: 1.5em;
+    }
 
-h2 {
-    font-size: 1.3em;
-}
+    h2 {
+        font-size: 1.3em;
+    }
 
-h3 {
-    font-size: 1.2em;
-}
+    h3 {
+        font-size: 1.2em;
+    }
 
-h4 {
-    font-size: 1.1em;
-}
+    h4 {
+        font-size: 1.1em;
+    }
 
     .shadow-md,
     .rounded-lg {

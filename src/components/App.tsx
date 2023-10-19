@@ -1,6 +1,6 @@
 import React from "react";
 import { BrowserRouter, Link, Route, Routes } from "react-router-dom";
-import CV from "./components/CV";
+import CV from "./CV";
 
 const App = () => {
   return (

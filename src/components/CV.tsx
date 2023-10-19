@@ -1,5 +1,5 @@
 import React from "react";
-import data from "../../data/info.json";
+import data from "../data/info.json";
 
 const CV = () => {
   return (
@@ -14,7 +14,7 @@ const CV = () => {
       <div className="flex flex-col sm:flex-row">
         <div className="w-full sm:w-1/3 border-r-0 sm:border-r-2 pr-0 sm:pr-4 pb-4 sm:pb-0">
           <div className="mb-6">
-            <h2 className="text-2xl font-semibold mb-4">Details</h2>
+            <h2 className="text-2xl font-semibold mb-4 w-full">Details</h2>
             <ul className="list-inside">
               {data.details.map((detail, index) => (
                 <li key={index} className="items-center mb-2">
@@ -37,9 +37,12 @@ const CV = () => {
             {data.skills.map(({ category, skills }, index) => (
               <div key={index} className="mb-4">
                 <h3 className="text-lg font-semibold mb-2">{category}:</h3>
-                <ul className="flex flex-wrap gap-4 list-inside list-disc">
+                <ul
+                  className="flex flex-wrap gap-4 list-inside list-disc"
+                  role="list"
+                >
                   {skills.map((skill, i) => (
-                    <li key={i} className="text-base">
+                    <li key={i} className="text-base underline" role="listitem">
                       {skill}
                     </li>
                   ))}
