@@ -1,0 +1,190 @@
+{
+    "name": "Serhii Melnyk",
+    "title": "JavaScript Software Developer",
+    "profile": "JavaScript developer. Working in web industry as developer since 2011. Highly skilled at solving issues, implementing new technologies, supporting un-supportable code, refactoring huge chunks of code, developing unit and integration tests, deciding project structure and architecture, communicating with people in pleasing manner. More thinking, less writing. Programming is about automatization, not about typing.",
+    "jobs": [
+        {
+            "title": "Web Team Lead",
+            "company": "Trinetix",
+            "years": "2023 - now",
+            "description": "Responsible for team overseeing development of framework and application based on framework that involves geospatial data analysis and visualization using Mapbox and Next.js for farm fields. Writing technical documentation for solution design and project structure. Reviewing and helping out with pull requests. Performing technical interviews, providing feedback for candidates. Ensuring pleasing and fast communication between foreign co-workers and teams. Coaching and mentoring colleagues. Responsible for development of PoC."
+        },
+        {
+            "title": "Sr. JavaScript Developer",
+            "company": "Trinetix",
+            "years": "2022 - 2023",
+            "description": "Responsible for developing application that visualizes statistical data for radio stations using React, Mapbox, Chart.js, Ant Design. Performing code reviews. Responsible for development of PoC."
+        },
+        {
+            "title": "Front-End Team Lead",
+            "company": "Trinetix",
+            "years": "2019 - 2022",
+            "description": "Responsible for developing and extending functionality of diner applications used by mullions of users. Participated in migration of applications from AngularJS to Angular, to Preact, to React. Ensuring code quality with UT and E2E tests. Overseeing developing of internal administrative services. Writing technical documentation for solution design and project structure. Reviewing and helping out with pull requests. Performing technical interviews, providing feedback for candidates. Management of outstaff team. Onboarding local and foreign newcomers. Ensuring pleasing and fast communication between co-workers and teams. Release managing and shepherding. Coaching and mentoring colleagues."
+        },
+        {
+            "title": "JavaScript Developer",
+            "company": "Trinetix",
+            "years": "2019 - 2022",
+            "description": "Responsible for developing various administrative applications based on AngularJS. Ensuring code quality with UT and E2E tests."
+        },
+        {
+            "title": "JavaScript Developer",
+            "company": "GlobalLogic",
+            "years": "2014 - 2014",
+            "description": "Supporting existing software based on AngularJS. Implementing new and extending existing functionality. Ensuring code quality with UT and E2E tests. Writing code documentation."
+        },
+        {
+            "title": "СoffeeScript / Ruby Developer",
+            "company": "R&R Music",
+            "years": "2013 - 2014",
+            "description": "Developing new services and features for music listening service using CoffeeScript, Ruby on Rails, EmberJS."
+        },
+        {
+            "title": "Junior Full-Stack Developer",
+            "company": "TAVR Media",
+            "years": "2011 - 2013",
+            "description": "Responsible for supporting front-end and back-end kissfm.ua, radioroks.ua, hitfm.ua using Zend, JQuery, Smarty. Integrating social sharing systems. Working with MySQL databases."
+        }
+    ],
+    "skills": [
+        {
+            "category": "Soft Skills",
+            "skills": [
+                "Communication",
+                "Management",
+                "Documentation"
+            ]
+        },
+        {
+            "category": "Programming Languages",
+            "skills": [
+                "TypeScript",
+                "JavaScript",
+                "PHP",
+                "Ruby",
+                "CoffeeScript"
+            ]
+        },
+        {
+            "category": "Frameworks & Libraries",
+            "skills": [
+                "React",
+                "Preact",
+                "Next.js",
+                "EmberJS",
+                "Angular",
+                "AngularJS"
+            ]
+        },
+        {
+            "category": "CSS Preprocessors & Libraries",
+            "skills": [
+                "CSS",
+                "Sass",
+                "Less",
+                "Styled Components",
+                "ARIA",
+                "MUI",
+                "Ant Design"
+            ]
+        },
+        {
+            "category": "State Management",
+            "skills": [
+                "Redux",
+                "rxjs",
+                "Recoil"
+            ]
+        },
+        {
+            "category": "Testing Tools",
+            "skills": [
+                "Karma",
+                "Mocha",
+                "Jest",
+                "Jasmine",
+                "Enzyme",
+                "TestCafe",
+                "Protractor",
+                "Cypress"
+            ]
+        },
+        {
+            "category": "Bundling Tools",
+            "skills": [
+                "Webpack",
+                "Rollup",
+                "Turborepo",
+                "Lerna"
+            ]
+        },
+        {
+            "category": "Specialized Libraries and Tools",
+            "skills": [
+                "Mapbox",
+                "Chart.js",
+                "turf",
+                "codemod",
+                "jscodeshift"
+            ]
+        },
+        {
+            "category": "DevOps and Integration Tools",
+            "skills": [
+                "Github Actions",
+                "Slack API",
+                "Sentry",
+                "Launch Darkly"
+            ]
+        }
+    ],
+    "details": [
+        {
+            "label": "Address:",
+            "value": "Kyiv, Ukraine"
+        },
+        {
+            "label": "Phone:",
+            "value": "(050) 193 89 77",
+            "link": "tel:380501938977"
+        },
+        {
+            "label": "Email:",
+            "value": "serhi.melnik@gmail.com",
+            "link": "mailto:serhi.melnik@gmail.com"
+        },
+        {
+            "label": "Skype:",
+            "value": "serhi.melnik",
+            "link": "skype:serhi.melnik?chat"
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Metrology, Information Technology",
+            "school": "Kyiv University of Aviation",
+            "years": "2008 - 2012"
+        },
+        {
+            "degree": "High School Diploma",
+            "school": "Ivano-Frankivsk Physical-Technical Lyceum",
+            "years": "2005 - 2008"
+        },
+        {
+            "degree": "Secondary School Diploma",
+            "school": "Ivano-Frankivsk Secondary School #21",
+            "years": "1997 - 2005"
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "level": "C1"
+        },
+        {
+            "language": "Ukrainian",
+            "level": "Native"
+        }
+    ],
+    "hoobies": "In free time I like to paint miniatures and play tabletop games. Reading books and watching movies about Warhammer universe. Playing video games, streaming. Also I'm owner and organizer of a local tabletop games club in Kyiv."
+}

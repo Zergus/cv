@@ -1,0 +1,43 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+@media print {
+    html {
+        scroll-behavior: smooth;
+    }
+
+    body {
+    font-size: 0.8em;
+}
+
+h1 {
+    font-size: 1.5em;
+}
+
+h2 {
+    font-size: 1.3em;
+}
+
+h3 {
+    font-size: 1.2em;
+}
+
+h4 {
+    font-size: 1.1em;
+}
+
+    .shadow-md,
+    .rounded-lg {
+        box-shadow: none !important;
+        border-radius: 0 !important;
+    }
+
+    .bg-white {
+        background-color: transparent !important;
+    }
+
+    ul.flex {
+        flex-direction: column !important;
+    }
+}
