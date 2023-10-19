@@ -8,7 +8,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "webpack serve --mode development",
-    "build": "node ./scripts/generate-md.js && webpack --mode production"
+    "build": "node ./scripts/generate-md.js && webpack --mode production",
+    "build:css": "tailwindcss build src/index.css -o dist/output.css"
   },
   "repository": {
     "type": "git",
