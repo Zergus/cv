@@ -9,9 +9,9 @@ JavaScript developer. Working in web industry as developer since 2011. Highly sk
   - Responsible for team overseeing development of framework and application based on framework that involves geospatial data analysis and visualization using Mapbox and Next.js for farm fields. Writing technical documentation for solution design and project structure. Reviewing and helping out with pull requests. Performing technical interviews, providing feedback for candidates. Ensuring pleasing and fast communication between foreign co-workers and teams. Coaching and mentoring colleagues. Responsible for development of PoC.
 - **Front-End Team Lead** at *Trinetix* (2022 - 2023)
   - Responsible for developing application that visualizes statistical data for radio stations using React, Mapbox, Chart.js, Ant Design. Performing code reviews. Responsible for development of PoC.
-- **Front-End Team Lead (GrubHub dept.)** at *Trinetix* (2019 - 2022)
+- **Front-End Team Lead (GrubHub dept.)** at *Trinetix* (2018 - 2022)
   - Responsible for developing and extending functionality of diner applications used by mullions of users. Participated in migration of applications from AngularJS to Angular, to Preact, to React. Ensuring code quality with UT and E2E tests. Overseeing developing of internal administrative services. Writing technical documentation for solution design and project structure. Reviewing and helping out with pull requests. Performing technical interviews, providing feedback for candidates. Management of outstaff team. Onboarding local and foreign newcomers. Ensuring pleasing and fast communication between co-workers and teams. Release managing and shepherding. Coaching and mentoring colleagues.
-- **JavaScript Developer** at *Trinetix* (2019 - 2022)
+- **JavaScript Developer** at *Trinetix* (2014 - 2018)
   - Responsible for developing various administrative applications based on AngularJS. Ensuring code quality with UT and E2E tests.
 - **JavaScript Developer** at *GlobalLogic* (2014 - 2014)
   - Supporting existing software based on AngularJS. Implementing new and extending existing functionality. Ensuring code quality with UT and E2E tests. Writing code documentation.
@@ -24,7 +24,7 @@ JavaScript developer. Working in web industry as developer since 2011. Highly sk
 - **Soft Skills**: Communication, Management, Documentation
 - **Programming Languages**: TypeScript, JavaScript, PHP, Ruby, CoffeeScript
 - **Frameworks & Libraries**: React, Preact, Next.js, EmberJS, Angular, AngularJS
-- **CSS Preprocessors & Libraries**: CSS, Sass, Less, Styled Components, ARIA, MUI, Ant Design
+- **CSS Preprocessors & Libraries**: CSS, Sass, Less, Styled Components, Bootstrap, MUI, Ant Design
 - **State Management**: Redux, rxjs, Recoil
 - **Testing Tools**: Karma, Mocha, Jest, Jasmine, Enzyme, TestCafe, Protractor, Cypress
 - **Bundling Tools**: Webpack, Rollup, Turborepo, Lerna
