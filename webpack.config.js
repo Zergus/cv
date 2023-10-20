@@ -4,7 +4,7 @@ const path = require("path");
 module.exports = {
   entry: "./src/index.tsx",
   output: {
-    path: path.resolve(__dirname, "./"), // Output to root directory
+    path: path.resolve(__dirname, "./build"), // Output to root directory
     filename: "bundle.js",
   },
   module: {
@@ -26,7 +26,7 @@ module.exports = {
   plugins: [
     new HtmlWebpackPlugin({
       template: "./src/index.html",
-      filename: "index.html", // Output to root directory
+      filename: "./index.html",
     }),
   ],
   devServer: {
