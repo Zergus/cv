@@ -18,7 +18,7 @@ const CV = () => {
             <ul className="list-inside">
               {data.details.map((detail, index) => (
                 <li key={index} className="items-center mb-2">
-                  <h3 className="font-semibold text-lg">{detail.label}</h3>
+                  <h3 className="font-semibold text-lg">{detail.label}:</h3>
                   {detail.link ? (
                     <a href={detail.link} className="hover:underline">
                       {detail.value}

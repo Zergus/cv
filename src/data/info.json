@@ -140,16 +140,16 @@
     ],
     "details": [
         {
-            "label": "Address:",
+            "label": "Location",
             "value": "Kyiv, Ukraine"
         },
         {
-            "label": "Email:",
+            "label": "Email",
             "value": "serhi.melnik@gmail.com",
             "link": "mailto:serhi.melnik@gmail.com"
         },
         {
-            "label": "Skype:",
+            "label": "Skype",
             "value": "serhi.melnik",
             "link": "skype:serhi.melnik?chat"
         }
