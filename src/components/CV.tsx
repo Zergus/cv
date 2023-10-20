@@ -59,7 +59,7 @@ const CV = () => {
           </div>
 
           <div className="space-y-2 sm:space-y-2">
-            <h2 className="text-2xl font-semibold">History</h2>
+            <h2 className="text-2xl font-semibold">Experience</h2>
 
             {data.jobs.map(({ company, description, title, years }, index) => (
               <div key={index} className="bg-white p-4 rounded-lg shadow-md">
