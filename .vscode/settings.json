@@ -1,5 +1,0 @@
-{
-  "yaml.schemas": {
-    "https://json.schemastore.org/yamllint.json": "file:///Users/smelnyk/Projects/zergus.github.io/.github/workflows/deploy.yml"
-  }
-}
