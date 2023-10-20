@@ -7,7 +7,7 @@ JavaScript developer. Working in web industry as developer since 2011. Highly sk
 ### 🛠 Work Experience
 - **Web Team Lead** at *Trinetix* (2023 - now)
   - Responsible for team overseeing development of framework and application based on framework that involves geospatial data analysis and visualization using Mapbox and Next.js for farm fields. Writing technical documentation for solution design and project structure. Reviewing and helping out with pull requests. Performing technical interviews, providing feedback for candidates. Ensuring pleasing and fast communication between foreign co-workers and teams. Coaching and mentoring colleagues. Responsible for development of PoC.
-- **Sr. JavaScript Developer** at *Trinetix* (2022 - 2023)
+- **Front-End Team Lead** at *Trinetix* (2022 - 2023)
   - Responsible for developing application that visualizes statistical data for radio stations using React, Mapbox, Chart.js, Ant Design. Performing code reviews. Responsible for development of PoC.
 - **Front-End Team Lead** at *Trinetix* (2019 - 2022)
   - Responsible for developing and extending functionality of diner applications used by mullions of users. Participated in migration of applications from AngularJS to Angular, to Preact, to React. Ensuring code quality with UT and E2E tests. Overseeing developing of internal administrative services. Writing technical documentation for solution design and project structure. Reviewing and helping out with pull requests. Performing technical interviews, providing feedback for candidates. Management of outstaff team. Onboarding local and foreign newcomers. Ensuring pleasing and fast communication between co-workers and teams. Release managing and shepherding. Coaching and mentoring colleagues.
