@@ -8,8 +8,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "webpack serve --mode development",
-    "build": "node ./scripts/generate-md.js && webpack --mode production",
-    "build:css": "tailwindcss build src/index.css -o dist/output.css"
+    "build": "webpack --mode production",
+    "build:md": "node ./scripts/generate-md.js"
   },
   "repository": {
     "type": "git",
@@ -38,6 +38,7 @@
     "@types/react-dom": "^18.2.14",
     "autoprefixer": "^10.4.16",
     "babel-loader": "^9.1.3",
+    "copy-webpack-plugin": "^11.0.0",
     "css-loader": "^6.8.1",
     "html-webpack-plugin": "^5.5.3",
     "husky": "^8.0.3",
