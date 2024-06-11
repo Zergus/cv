@@ -1,185 +1,372 @@
 {
+  "en": {
     "name": "Serhii Melnyk",
     "title": "JavaScript Software Developer",
-    "profile": "With nearly a decade of experience in the tech industry, I specialize in JavaScript development and have been actively involved since 2011. My skill set isn't just about coding; it's about providing holistic solutions. From troubleshooting complex issues to pioneering the implementation of cutting-edge technologies, I have a proven track record of delivering robust, scalable, and maintainable solutions. My expertise extends to reviving legacy codebases, efficiently refactoring extensive lines of code, and putting together rigorous unit and integration tests. I take a thoughtful approach to software architecture and can readily adapt or establish project structures that set the foundation for successful long-term development. In essence, my philosophy is: \"More thinking, less writing.\" I believe that the core of programming is about automation and problem-solving, not just churning out lines of code. Intrigued? Let's talk about how I can add value to your team or project.",
+    "profile": "With more than 10 years experience in the web industry, I specialize in JavaScript development since 2011. My skill set isn't just about coding; it's about providing holistic solutions. From troubleshooting complex issues to pioneering the implementation of cutting-edge technologies, I have a proven track record of delivering robust, scalable, and maintainable solutions. My expertise extends to reviving legacy codebases, efficiently refactoring extensive lines of code, and putting together rigorous unit and integration tests. I take a thoughtful approach to software architecture and can readily adapt or establish project structures that set the foundation for successful long-term development. In essence, my philosophy is: \"More thinking, less writing.\" I believe that the core of programming is about automation and problem-solving, not just churning out lines of code. Intrigued? Let's talk about how I can add value to your team or project.",
     "jobs": [
-        {
-            "title": "Web Team Lead",
-            "company": "Trinetix",
-            "years": "2023 - now",
-            "description": "Responsible for team overseeing development of framework and application based on framework that involves geospatial data analysis and visualization using Mapbox and Next.js for farm fields. Writing technical documentation for solution design and project structure. Reviewing and helping out with pull requests. Performing technical interviews, providing feedback for candidates. Ensuring pleasing and fast communication between foreign co-workers and teams. Coaching and mentoring colleagues. Responsible for development of PoC."
-        },
-        {
-            "title": "Front-End Team Lead",
-            "company": "Trinetix",
-            "years": "2022 - 2023",
-            "description": "Responsible for developing application that visualizes statistical data for radio stations using React, Mapbox, Chart.js, Ant Design. Performing code reviews. Responsible for development of PoC."
-        },
-        {
-            "title": "Front-End Team Lead (GrubHub dept.)",
-            "company": "Trinetix",
-            "years": "2018 - 2022",
-            "description": "Responsible for developing and extending functionality of diner applications used by mullions of users. Participated in migration of applications from AngularJS to Angular, to Preact, to React. Ensuring code quality with UT and E2E tests. Overseeing developing of internal administrative services. Writing technical documentation for solution design and project structure. Reviewing and helping out with pull requests. Performing technical interviews, providing feedback for candidates. Management of outstaff team. Onboarding local and foreign newcomers. Ensuring pleasing and fast communication between co-workers and teams. Release managing and shepherding. Coaching and mentoring colleagues."
-        },
-        {
-            "title": "JavaScript Developer",
-            "company": "Trinetix",
-            "years": "2014 - 2018",
-            "description": "Responsible for developing various administrative applications based on AngularJS. Ensuring code quality with UT and E2E tests."
-        },
-        {
-            "title": "JavaScript Developer",
-            "company": "GlobalLogic",
-            "years": "2014 - 2014",
-            "description": "Supporting existing software based on AngularJS. Implementing new and extending existing functionality. Ensuring code quality with UT and E2E tests. Writing code documentation."
-        },
-        {
-            "title": "СoffeeScript / Ruby Developer",
-            "company": "R&R Music",
-            "years": "2013 - 2014",
-            "description": "Developing new services and features for music listening service using CoffeeScript, Ruby on Rails, EmberJS."
-        },
-        {
-            "title": "Junior Full-Stack Developer",
-            "company": "TAVR Media",
-            "years": "2011 - 2013",
-            "description": "Responsible for supporting front-end and back-end kissfm.ua, radioroks.ua, hitfm.ua using Zend, JQuery, Smarty. Integrating social sharing systems. Working with MySQL databases."
-        }
+      {
+        "title": "Web Team Lead",
+        "company": "Trinetix",
+        "years": "2023 - now",
+        "description": "Responsible for team overseeing development of framework and application based on framework that involves geospatial data analysis and visualization using Mapbox and Next.js for farm fields. Writing technical documentation for solution design and project structure. Reviewing and helping out with pull requests. Performing technical interviews, providing feedback for candidates. Ensuring pleasing and fast communication between foreign co-workers and teams. Coaching and mentoring colleagues. Responsible for development of PoC."
+      },
+      {
+        "title": "Front-End Team Lead",
+        "company": "Trinetix",
+        "years": "2022 - 2023",
+        "description": "Responsible for developing application that visualizes statistical data for radio stations using React, Mapbox, Chart.js, Ant Design. Performing code reviews. Responsible for development of PoC."
+      },
+      {
+        "title": "Front-End Team Lead (GrubHub dept.)",
+        "company": "Trinetix",
+        "years": "2018 - 2022",
+        "description": "Responsible for developing and extending functionality of diner applications used by mullions of users. Participated in migration of applications from AngularJS to Angular, to Preact, to React. Ensuring code quality with UT and E2E tests. Overseeing developing of internal administrative services. Writing technical documentation for solution design and project structure. Reviewing and helping out with pull requests. Performing technical interviews, providing feedback for candidates. Management of outstaff team. Onboarding local and foreign newcomers. Ensuring pleasing and fast communication between co-workers and teams. Release managing and shepherding. Coaching and mentoring colleagues."
+      },
+      {
+        "title": "JavaScript Developer",
+        "company": "Trinetix",
+        "years": "2014 - 2018",
+        "description": "Responsible for developing various administrative applications based on AngularJS. Ensuring code quality with UT and E2E tests."
+      },
+      {
+        "title": "JavaScript Developer",
+        "company": "GlobalLogic",
+        "years": "2014 - 2014",
+        "description": "Supporting existing software based on AngularJS. Implementing new and extending existing functionality. Ensuring code quality with UT and E2E tests. Writing code documentation."
+      },
+      {
+        "title": "СoffeeScript / Ruby Developer",
+        "company": "R&R Music",
+        "years": "2013 - 2014",
+        "description": "Developing new services and features for music listening service using CoffeeScript, Ruby on Rails, EmberJS."
+      },
+      {
+        "title": "Junior Full-Stack Developer",
+        "company": "TAVR Media",
+        "years": "2011 - 2013",
+        "description": "Responsible for supporting front-end and back-end kissfm.ua, radioroks.ua, hitfm.ua using Zend, JQuery, Smarty. Integrating social sharing systems. Working with MySQL databases."
+      }
     ],
     "skills": [
-        {
-            "category": "Soft Skills",
-            "skills": [
-                "Communication",
-                "Management",
-                "Documentation"
-            ]
-        },
-        {
-            "category": "Programming Languages",
-            "skills": [
-                "TypeScript",
-                "JavaScript",
-                "PHP",
-                "Ruby",
-                "CoffeeScript"
-            ]
-        },
-        {
-            "category": "Frameworks & Libraries",
-            "skills": [
-                "React",
-                "Preact",
-                "Next.js",
-                "EmberJS",
-                "Angular",
-                "AngularJS"
-            ]
-        },
-        {
-            "category": "CSS Preprocessors & Libraries",
-            "skills": [
-                "CSS",
-                "Sass",
-                "Less",
-                "Styled Components",
-                "Bootstrap",
-                "MUI",
-                "Ant Design"
-            ]
-        },
-        {
-            "category": "State Management",
-            "skills": [
-                "Redux",
-                "rxjs",
-                "Recoil"
-            ]
-        },
-        {
-            "category": "Testing Tools",
-            "skills": [
-                "Karma",
-                "Mocha",
-                "Jest",
-                "Jasmine",
-                "Enzyme",
-                "TestCafe",
-                "Protractor",
-                "Cypress"
-            ]
-        },
-        {
-            "category": "Bundling Tools",
-            "skills": [
-                "Webpack",
-                "Rollup",
-                "Turborepo",
-                "Lerna"
-            ]
-        },
-        {
-            "category": "Specialized Libraries and Tools",
-            "skills": [
-                "Mapbox",
-                "Chart.js",
-                "turf",
-                "codemod",
-                "jscodeshift"
-            ]
-        },
-        {
-            "category": "DevOps and Integration Tools",
-            "skills": [
-                "Github Actions",
-                "Slack API",
-                "Sentry",
-                "Launch Darkly"
-            ]
-        }
+      {
+        "category": "Soft Skills",
+        "skills": [
+          "Communication",
+          "Management",
+          "Documentation"
+        ]
+      },
+      {
+        "category": "Programming Languages",
+        "skills": [
+          "TypeScript",
+          "JavaScript",
+          "PHP",
+          "Ruby",
+          "CoffeeScript"
+        ]
+      },
+      {
+        "category": "Frameworks & Libraries",
+        "skills": [
+          "React",
+          "Preact",
+          "Next.js",
+          "EmberJS",
+          "Angular",
+          "AngularJS"
+        ]
+      },
+      {
+        "category": "CSS Preprocessors & Libraries",
+        "skills": [
+          "CSS",
+          "Sass",
+          "Less",
+          "Styled Components",
+          "Bootstrap",
+          "MUI",
+          "Ant Design"
+        ]
+      },
+      {
+        "category": "State Management",
+        "skills": [
+          "Redux",
+          "rxjs",
+          "Recoil"
+        ]
+      },
+      {
+        "category": "Testing Tools",
+        "skills": [
+          "Karma",
+          "Mocha",
+          "Jest",
+          "Jasmine",
+          "Enzyme",
+          "TestCafe",
+          "Protractor",
+          "Cypress"
+        ]
+      },
+      {
+        "category": "Bundling Tools",
+        "skills": [
+          "Webpack",
+          "Rollup",
+          "Turborepo",
+          "Lerna"
+        ]
+      },
+      {
+        "category": "Specialized Libraries and Tools",
+        "skills": [
+          "Mapbox",
+          "Chart.js",
+          "turf",
+          "codemod",
+          "jscodeshift"
+        ]
+      },
+      {
+        "category": "DevOps and Integration Tools",
+        "skills": [
+          "Github Actions",
+          "Slack API",
+          "Sentry",
+          "Launch Darkly"
+        ]
+      }
     ],
     "details": [
-        {
-            "label": "Location",
-            "value": "Kyiv, Ukraine"
-        },
-        {
-            "label": "Email",
-            "value": "serhi.melnik@gmail.com",
-            "link": "mailto:serhi.melnik@gmail.com"
-        },
-        {
-            "label": "Skype",
-            "value": "serhi.melnik",
-            "link": "skype:serhi.melnik?chat"
-        }
+      {
+        "label": "Location",
+        "value": "Kyiv, Ukraine"
+      },
+      {
+        "label": "Email",
+        "value": "serhi.melnik@gmail.com",
+        "link": "mailto:serhi.melnik@gmail.com"
+      },
+      {
+        "label": "Skype",
+        "value": "serhi.melnik",
+        "link": "skype:serhi.melnik?chat"
+      }
     ],
     "education": [
-        {
-            "degree": "Bachelor’s degree in Information and Measurement Systems",
-            "school": "Kyiv Aviation University",
-            "years": "2008 - 2012"
-        },
-        {
-            "degree": "High School Diploma",
-            "school": "Ivano-Frankivsk Physical-Technical Lyceum",
-            "years": "2005 - 2008"
-        },
-        {
-            "degree": "Secondary School Diploma",
-            "school": "Ivano-Frankivsk Secondary School #21",
-            "years": "1997 - 2005"
-        }
+      {
+        "degree": "Bachelor’s degree in Information and Measurement Systems",
+        "school": "Kyiv Aviation University",
+        "years": "2008 - 2012"
+      },
+      {
+        "degree": "High School Diploma",
+        "school": "Ivano-Frankivsk Physical-Technical Lyceum",
+        "years": "2005 - 2008"
+      },
+      {
+        "degree": "Secondary School Diploma",
+        "school": "Ivano-Frankivsk Secondary School #21",
+        "years": "1997 - 2005"
+      }
     ],
     "languages": [
-        {
-            "language": "English",
-            "level": "C1"
-        },
-        {
-            "language": "Ukrainian",
-            "level": "Native"
-        }
+      {
+        "language": "English",
+        "level": "C1"
+      },
+      {
+        "language": "Ukrainian",
+        "level": "Native"
+      }
     ],
     "hoobies": "In free time I like to paint miniatures and play tabletop games. Reading books and watching movies about Warhammer universe. Playing video games, streaming. Also I'm owner and organizer of a local tabletop games club in Kyiv."
+  },
+  "uk": {
+    "name": "Сергій Мельник",
+    "title": "Розробник програмного забезпечення JavaScript",
+    "profile": "Маючи більше десяти років досвіду в сфері веб-розробки, я спеціалізуюся на розробці JavaScript аплікацій з 2011 року. Мої навички не обмежуються написанням коду, я розробляю комплексні рішення. Від усунення складних проблем до впровадження передових технологій, я маю перевірений досвід у створенні надійних, масштабованих та підтримуваних рішень. Моя експертиза також охоплює відновлення застарілих кодових баз, ефективне рефакторування великої кількості коду та складання юніт- та інтеграційних тестів. Я підходжу до програмної архітектури з розумінням і можу легко адаптувати або створювати структури проєктів, які стануть основою для успішного довгострокового розвитку. По суті, моя філософія така: \"Більше думати, менше писати.\" Я вірю, що суть програмування полягає в автоматизації та вирішенні проблем, а не у написанні рядків коду. Зацікавлені? Давайте поговоримо про те, як я можу допомогти вашій команді чи проєкту.",
+    "jobs": [
+      {
+        "title": "Web Team Lead",
+        "company": "Trinetix",
+        "years": "2023 - сьогодні",
+        "description": "Відповідальний за команду, яка займається розробкою фреймворку та додатків на його основі для аналізу та візуалізації геопросторових даних з використанням Mapbox і Next.js для сільськогосподарських полів. Пишу технічну документацію для проектування рішень та структури проекту. Рецензую та допомагаю з pull-запитами. Проводжу технічні співбесіди, надаю зворотний зв'язок кандидатам. Забезпечую ефективну та швидку комунікацію між закордонними співробітниками та командами. Коучу та менторую колег. Відповідальний за розробку Proof of Concept (PoC) для представлення рішень клієнтам."
+      },
+      {
+        "title": "Front-End Team Lead",
+        "company": "Trinetix",
+        "years": "2022 - 2023",
+        "description": "Розробив додаток для візуалізації статистичних даних радіостанцій з використанням React, Mapbox, Chart.js та Ant Design. Проводив код-рев'ю та набір в команду. Розробив Proof of Concept (PoC) для клієнта."
+      },
+      {
+        "title": "Front-End Team Lead (GrubHub dept.)",
+        "company": "Trinetix",
+        "years": "2018 - 2022",
+        "description": "Розробив і розширив функціональність додатків для ресторанів, якими користуються мільйони користувачів. Брав участь у міграції додатків з AngularJS на Angular, Preact на React. Забезпечив якість коду за допомогою юніт-тестів та end-to-end тестування. Керував розробкою внутрішніх адміністративних сервісів. Написав технічну документацію для проектування рішень та структури проекту. Рецензував і допомагав з pull-запитами. Проводив технічні співбесіди та надавав зворотний зв'язок кандидатам. Керував командою закордонних колег. Тренував новачків як локальних, так і закордонних. Забезпечив ефективну та швидку комунікацію між співробітниками та командами. Займався управлінням релізами. Коучив та менторив колег."
+      },
+      {
+        "title": "JavaScript розробник",
+        "company": "Trinetix",
+        "years": "2014 - 2018",
+        "description": "Розробив різні адміністративні додатки на основі AngularJS. Забезпечив якість коду за допомогою юніт-тестів та end-to-end тестування."
+      },
+      {
+        "title": "JavaScript розробник",
+        "company": "GlobalLogic",
+        "years": "2014 - 2014",
+        "description": "Підтримував існуюче програмне забезпечення на основі AngularJS. Впроваджував нову та розширював існуючу функціональність. Забезпечив якість коду за допомогою юніт-тестів та end-to-end тестування. Писав документацію коду."
+      },
+      {
+        "title": "СoffeeScript / Ruby розробник",
+        "company": "R&R Music",
+        "years": "2013 - 2014",
+        "description": "Розробив нові сервіси та функції для музичного сервісу з використанням CoffeeScript, Ruby on Rails та EmberJS."
+      },
+      {
+        "title": "Молодший Full-Stack розробник",
+        "company": "TAVR Media",
+        "years": "2011 - 2013",
+        "description": "Підтримував фронт-енд і бек-енд сайтів kissfm.ua, radioroks.ua, hitfm.ua з використанням Zend, JQuery та Smarty. Інтегрував системи соціального обміну. Працював з базами даних MySQL."
+      }
+    ],
+    "skills": [
+      {
+        "category": "Гнучкі навички",
+        "skills": [
+          "Комунікація",
+          "Управління",
+          "Документація"
+        ]
+      },
+      {
+        "category": "Мови програмування",
+        "skills": [
+          "TypeScript",
+          "JavaScript",
+          "PHP",
+          "Ruby",
+          "CoffeeScript"
+        ]
+      },
+      {
+        "category": "Фреймворки та бібліотеки",
+        "skills": [
+          "React",
+          "Preact",
+          "Next.js",
+          "EmberJS",
+          "Angular",
+          "AngularJS"
+        ]
+      },
+      {
+        "category": "CSS препроцесори та бібліотеки",
+        "skills": [
+          "CSS",
+          "Sass",
+          "Less",
+          "Styled Components",
+          "Bootstrap",
+          "MUI",
+          "Ant Design"
+        ]
+      },
+      {
+        "category": "Управління станом",
+        "skills": [
+          "Redux",
+          "rxjs",
+          "Recoil"
+        ]
+      },
+      {
+        "category": "Тестування",
+        "skills": [
+          "Karma",
+          "Mocha",
+          "Jest",
+          "Jasmine",
+          "Enzyme",
+          "TestCafe",
+          "Protractor",
+          "Cypress"
+        ]
+      },
+      {
+        "category": "Збирання",
+        "skills": [
+          "Webpack",
+          "Rollup",
+          "Turborepo",
+          "Lerna"
+        ]
+      },
+      {
+        "category": "Спеціалізовані утиліти та бібліотеки",
+        "skills": [
+          "Mapbox",
+          "Chart.js",
+          "turf",
+          "codemod",
+          "jscodeshift"
+        ]
+      },
+      {
+        "category": "DevOps частина та інтеграція",
+        "skills": [
+          "Github Actions",
+          "Slack API",
+          "Sentry",
+          "Launch Darkly"
+        ]
+      }
+    ],
+    "details": [
+      {
+        "label": "Розміщення",
+        "value": "Київ, Україна"
+      },
+      {
+        "label": "Email",
+        "value": "serhi.melnik@gmail.com",
+        "link": "mailto:serhi.melnik@gmail.com"
+      },
+      {
+        "label": "Skype",
+        "value": "serhi.melnik",
+        "link": "skype:serhi.melnik?chat"
+      }
+    ],
+    "education": [
+      {
+        "degree": "Ступінь бакалавра в галузі інформаційних та вимірювальних систем",
+        "school": "Київський Національний Авіаційний університет",
+        "years": "2008 - 2012"
+      },
+      {
+        "degree": "Атестат про повну загальну середню освіту",
+        "school": "Івано-Франківський Фізико-технічний ліцей",
+        "years": "2005 - 2008"
+      },
+      {
+        "degree": "Атестат про загальну середню освіту",
+        "school": "Івано-Франківська Загальноосвітня школа №21",
+        "years": "1997 - 2005"
+      }
+    ],
+    "languages": [
+      {
+        "language": "Українська",
+        "level": "Native"
+      },
+      {
+        "language": "Англійська",
+        "level": "C1"
+      }
+    ],
+    "hoobies": "У вільний час люблю малювати мініатюри та грати в стратегічні настільні ігри. Читаю книги та дивлюсь фільми про всесвіт Warhammer. Граю у відеоігри, стрімлю. Також я є власником та організатором місцевого клубу настільних ігор у Києві."
+  }     
 }

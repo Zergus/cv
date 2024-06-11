@@ -2,7 +2,7 @@
 ## 💼 JavaScript Software Developer
 
 ### 📝 Profile
-JavaScript developer. Working in web industry as developer since 2011. Highly skilled at solving issues, implementing new technologies, supporting un-supportable code, refactoring huge chunks of code, developing unit and integration tests, deciding project structure and architecture, communicating with people in pleasing manner. More thinking, less writing. Programming is about automatization, not about typing.
+With more than 10 years experience in the web industry, I specialize in JavaScript development since 2011. My skill set isn't just about coding; it's about providing holistic solutions. From troubleshooting complex issues to pioneering the implementation of cutting-edge technologies, I have a proven track record of delivering robust, scalable, and maintainable solutions. My expertise extends to reviving legacy codebases, efficiently refactoring extensive lines of code, and putting together rigorous unit and integration tests. I take a thoughtful approach to software architecture and can readily adapt or establish project structures that set the foundation for successful long-term development. In essence, my philosophy is: "More thinking, less writing." I believe that the core of programming is about automation and problem-solving, not just churning out lines of code. Intrigued? Let's talk about how I can add value to your team or project.
 
 ### 🛠 Work Experience
 - **Web Team Lead** at *Trinetix* (2023 - now)

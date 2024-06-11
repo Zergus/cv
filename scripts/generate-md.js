@@ -11,7 +11,7 @@ fs.readFile(jsonFilePath, "utf8", (err, data) => {
     return;
   }
 
-  const cvData = JSON.parse(data);
+  const cvData = JSON.parse(data)['en'];
 
   // Initialize an array to hold the lines of the Markdown file
   let mdLines = [];
