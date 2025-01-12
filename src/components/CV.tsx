@@ -2,11 +2,6 @@ import React, { useState } from "react";
 import data from "../data/info.json";
 import { LANGUAGES, SUPPORTED_LANGUAGES } from "../types/common";
 
-const languageLabels = {
-  [LANGUAGES.en]: "Eng",
-  [LANGUAGES.uk]: "Укр",
-};
-
 const sectionLabels = {
   [LANGUAGES.en]: {
     details: "Details",
@@ -177,7 +172,7 @@ const CV = () => {
             <h2 className="text-2xl font-semibold">
               {sectionLabels[locale].hobbies}
             </h2>
-            <p className="sm:text-md p-2">{data[locale].hoobies}</p>
+            <p className="sm:text-md p-2">{data[locale].hobbies}</p>
           </div>
         </div>
       </div>
